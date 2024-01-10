@@ -1,0 +1,39 @@
+[2024-01-10 12:01:21] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:01:21] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:01:21] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:01:21] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:05:29] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:05:29] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:05:29] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:05:29] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:14:59] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:14:59] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:14:59] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:14:59] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:16:25] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:16:25] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:16:25] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:16:25] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:22:10] [Script Error]: [string "cards_specific_functions.lua"]:32: attempt to index a nil value (global 'c')
+[2024-01-10 12:22:10] [Script Error]: [string "cards_specific_functions.lua"]:32: attempt to index a nil value (global 'c')
+[2024-01-10 12:24:13] [Script Error]: [string "cards_specific_functions.lua"]:31: Parameter 1 should be "Int".
+[2024-01-10 12:24:13] [Script Error]: [string "cards_specific_functions.lua"]:31: Parameter 1 should be "Int".
+[2024-01-10 12:28:16] [Script Error]: [string "cards_specific_functions.lua"]:32: attempt to call a nil value (method 'IsFaceup')
+[2024-01-10 12:33:49] [Script Error]: [string "cards_specific_functions.lua"]:31: attempt to index a nil value (global 's')
+[2024-01-10 12:33:49] [Script Error]: [string "cards_specific_functions.lua"]:31: attempt to index a nil value (global 's')
+[2024-01-10 12:36:53] [Script Error]: [string "cards_specific_functions.lua"]:36: Parameter 2 should be "Int".
+[2024-01-10 12:44:05] [Script Error]: [string "cards_specific_functions.lua"]:31: attempt to call a nil value (method 'GetControler')
+[2024-01-10 12:44:05] [Script Error]: [string "cards_specific_functions.lua"]:31: attempt to call a nil value (method 'GetControler')
+[2024-01-10 12:47:10] [Script Error]: [string "cards_specific_functions.lua"]:29: attempt to index a nil value (global 'Auxialiary')
+[2024-01-10 12:47:10] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:47:10] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:47:10] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:47:10] [Script Error]: [string "c444000080.lua"]:36: Parameter 2 should be "Function".
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
+[2024-01-10 12:48:07] [Script Error]: [string "cards_specific_functions.lua"]:37: Parameter 1 should be "Int".
+[2024-01-10 12:48:07] [Script Error]: [string "cards_specific_functions.lua"]:37: Parameter 1 should be "Int".
