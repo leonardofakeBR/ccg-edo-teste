@@ -37,3 +37,6 @@
 [2024-01-10 12:47:10] [Script Error]: [string "proc_fusion.lua"]:885: attempt to call a nil value (field 'addLizardCheck')
 [2024-01-10 12:48:07] [Script Error]: [string "cards_specific_functions.lua"]:37: Parameter 1 should be "Int".
 [2024-01-10 12:48:07] [Script Error]: [string "cards_specific_functions.lua"]:37: Parameter 1 should be "Int".
+[2024-01-10 14:44:41] Exception occurred in repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings: '././repositories/delta-puppet' exists and is not an empty directory
+[2024-01-10 14:44:41] The repo https://github.com/ProjectIgnis/DeltaPuppetOfStrings couldn't be cloned
+[2024-01-10 14:44:41] Error: '././repositories/delta-puppet' exists and is not an empty directory
